@@ -1,1 +1,7 @@
 ClassicBurger
+Cheeseburger
+ChickenSandwich
+Tea
+Lemonade
+OnionRings
+Lemonade

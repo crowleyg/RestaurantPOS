@@ -1,1 +1,2 @@
-Cheeseburger
+ClassicBurger
+Lemonade
